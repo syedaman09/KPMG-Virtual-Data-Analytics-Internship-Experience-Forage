@@ -17,7 +17,7 @@ Task: - Sprocket Central Pty Ltd. has given us a new list of 1000 potential cust
 
 The marketing team at Sprocket Central Pty Ltd is sure that, if correctly analyzed, the data would reveal useful customer insights that could help optimize resource allocation for targeted marketing. Hence, improve performance by focusing on high-value customers.
 
-Data Quality Framework 
+Data Quality Framework  
 
 Key Issues for Data Quality Assessment
 
